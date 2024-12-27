@@ -13,7 +13,7 @@
 *Note:* If the rows share the same *index* they correspond to the same example.
 
 
-* **GeneratedSamples.zip**: Contains the folder GeneratedSamples. Available on: ***  (TO-DO: upload in host server)
+* **GeneratedSamples.zip**: Contains the folder GeneratedSamples. Available on: https://drive.google.com/file/d/1D9DJWmZf2WEOIn9Eb3GBhBG3aMVXUKJE/view?usp=sharing
 
 ## Folders
 
