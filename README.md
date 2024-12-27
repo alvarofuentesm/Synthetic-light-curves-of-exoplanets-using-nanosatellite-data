@@ -1,5 +1,7 @@
 # Synthetic light curves of exoplanets using nanosatellite data
 
+![example](GlobalLocalFigures/1008_local_HD105435_UBr.npy.png)
+
 
 ## Dataset Files
 
