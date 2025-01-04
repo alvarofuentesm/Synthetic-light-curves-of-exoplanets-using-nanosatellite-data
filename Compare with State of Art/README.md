@@ -6,7 +6,7 @@
 
 Test-Set proposed: 2 inputs (Global and Local). Dimensions: 201x1 and 61x1. (Shallue and Vanderburg (2018), Yu et al. (2019) ).
 
-Test-Set Yeh & Jiang: 1 input. Dimensions: 144x1. (216x1, 288x1 and 360x1 are not available).
+Test-Set Yeh & Jiang: 1 input. Dimensions: 144x1. (216x1, 288x1 and 360x1 are not available). (Yeh, L. C., & Jiang, G. (2020). Searching for possible exoplanet transits from BRITE data through a machine learning technique. Publications of the Astronomical Society of the Pacific, 133(1019), 014401.)
 
 Yeh & Jiang provides 5 trained models:
 

@@ -1,5 +1,8 @@
 # Synthetic light curves of exoplanets using nanosatellite data
 
+![example](GlobalLocalFigures/1008_local_HD105435_UBr.npy.png)
+
+![example](GlobalLocalFigures/532_local_HD105211_UBr.npy.png)
 
 ## Dataset Files
 
@@ -13,7 +16,7 @@
 *Note:* If the rows share the same *index* they correspond to the same example.
 
 
-* **GeneratedSamples.zip**: Contains the folder GeneratedSamples. Available on: ***  (TO-DO: upload in host server)
+* **GeneratedSamples.zip**: Contains the folder GeneratedSamples. Available on: https://drive.google.com/file/d/1D9DJWmZf2WEOIn9Eb3GBhBG3aMVXUKJE/view?usp=sharing
 
 ## Folders
 
