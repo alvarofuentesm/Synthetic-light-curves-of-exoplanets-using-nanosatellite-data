@@ -6,6 +6,8 @@
 
 ## Dataset Files
 
+* **data_labeled_full.csv**: all examples, without filtering and split.
+
 * **csv/data_train_full.csv**: 11641 examples for training and validation.
 
 * **csv/data_test_full.csv**: 1294 examples for testing (include class label PC or NOT_PC). 
