@@ -6,6 +6,8 @@
 
 ## Dataset Files
 
+* **data_labeled_full.csv**: all examples, without filtering and split.
+
 * **csv/data_train_full.csv**: 11641 examples for training and validation.
 
 * **csv/data_test_full.csv**: 1294 examples for testing (include class label PC or NOT_PC). 
@@ -22,7 +24,11 @@
 
 * **GeneratedSamples**: All generated examples (PC and NOT_PC) stored in .npy files (curve, phase fold, local view and global view).
 
-* **GlobalLocalFigures**: Images of Local and Global View of the full data-set (without the manual selection). 
+* **GlobalLocalFigures**: Images of Local and Global View of the full data-set (without the manual selection).
+
+* **/models**: trained DL models (for each K-fold and final models). 
+
+* **/models_old**: Old methodology models from Fuentes, A., & Solar, M. (2024). Synthetic light curves of exoplanet transit using nanosatellite data. Astronomy and Computing, 47, 100816.
 
 ## Pipeline to generate a data set with synthetic exoplanetary transits
 
@@ -35,4 +41,6 @@
 ## Deep Learning models
 
 * **Apply Models.ipynb**: differents architectures training with the data-set. (proposed + Yeh, L. C., & Jiang, G. (2020). Searching for possible exoplanet transits from BRITE data through a machine learning technique. Publications of the Astronomical Society of the Pacific, 133(1019), 014401.)
+
+
 
