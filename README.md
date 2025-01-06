@@ -32,7 +32,7 @@
 
 ## Pipeline to generate a data set with synthetic exoplanetary transits
 
-* **Create Examples New.ipynb**: Main code.
+* **Create Examples.ipynb**: Main code.
 
 * **BRITEObjects.zip**:  Contains the folder BRITEObjects with decorrelated BRITE objects npy. (without synthetic transits). (TO-DO: upload in host server)
 
