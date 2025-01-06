@@ -42,5 +42,17 @@
 
 * **Apply Models.ipynb**: differents architectures training with the data-set. (proposed + Yeh, L. C., & Jiang, G. (2020). Searching for possible exoplanet transits from BRITE data through a machine learning technique. Publications of the Astronomical Society of the Pacific, 133(1019), 014401.)
 
+## Bibliography
+
+- Yeh, L.‐C. and Jiang, G. (2020). Searching for possible exoplanet transits from brite data through a machine learning technique. Publications of the Astronomical Society of the Pacific,
+133(1019):014401.
+
+- Shallue, C. J. and Vanderburg, A. (2018). Identifying exoplanets with deep learning: A
+five‐planet resonant chain around kepler‐80 and an eighth planet around kepler‐90. The
+Astronomical Journal, 155(2):94.
+
+- Yu, L., Vanderburg, A., Huang, C., Shallue, C. J., Crossfield, I. J., Gaudi, B. S., Daylan, T., Dattilo,
+A., Armstrong, D. J., Ricker, G. R., et al. (2019). Identifying exoplanets with deep learning. iii.
+automated triage and vetting of tess candidates. The Astronomical Journal, 158(1):25.
 
 
