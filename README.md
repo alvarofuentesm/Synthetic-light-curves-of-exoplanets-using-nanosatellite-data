@@ -22,9 +22,9 @@
 
 ## Folders
 
-* **GeneratedSamples**: All generated examples (PC and NOT_PC) stored in .npy files (curve, phase fold, local view and global view).
+* **/GeneratedSamples**: All generated examples (PC and NOT_PC) stored in .npy files (curve, phase fold, local view and global view).
 
-* **GlobalLocalFigures**: Images of Local and Global View of the full data-set (without the manual selection).
+* **/GlobalLocalFigures**: Images of Local and Global View of the full data-set (without the manual selection).
 
 * **/models**: trained DL models (for each K-fold and final models). 
 
